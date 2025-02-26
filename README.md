@@ -38,6 +38,7 @@ Road accidents caused by **poor visibility, unexpected obstacles, and deteriorat
   - **LiDAR (optional)** for more accurate object detection
 
 **Output / Expected Results**
+
 ✅ **VMIS**  
 - LED lights turn **ON in low-light** conditions and **OFF in daylight.**  
 
