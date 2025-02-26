@@ -1,6 +1,6 @@
-Vehicle Margin Indicating System (VMIS) & Animal & Pothole Detection System (APDS)
+ **Vehicle Margin Indicating System (VMIS) & Animal & Pothole Detection System (APDS)**
 
-Road Safety System – VMIS & APDS  
+**Road Safety System – VMIS & APDS**  
  
 Road accidents caused by **poor visibility, unexpected obstacles, and deteriorating road conditions** pose serious risks. This project introduces **two safety systems** to reduce accident rates:  
 
@@ -35,4 +35,13 @@ Road accidents caused by **poor visibility, unexpected obstacles, and deteriorat
 **Working:**  
   - **Camera captures the road** → Uses OpenCV for **animal detection**  
   - **Ultrasonic sensor detects potholes** → Alerts driver if depth is significant  
-  - **LiDAR (optional)** for more accurate object detection  
+  - **LiDAR (optional)** for more accurate object detection
+
+**Output / Expected Results**
+✅ **VMIS**  
+- LED lights turn **ON in low-light** conditions and **OFF in daylight.**  
+
+✅ **APDS**  
+- **Animal detection**: Displays a **green box** around detected animals.  
+- **Pothole detection**: Alerts driver via **buzzer** when pothole is detected.  
+
