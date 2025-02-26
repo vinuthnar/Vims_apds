@@ -35,7 +35,8 @@ Road accidents caused by **poor visibility, unexpected obstacles, and deteriorat
 **Working:**  
   - **Camera captures the road** → Uses OpenCV for **animal detection**  
   - **Ultrasonic sensor detects potholes** → Alerts driver if depth is significant  
-  - **LiDAR (optional)** for more accurate object detection
+  - **LiDAR (optional)** for more accurate object detection.
+
 
 **Output / Expected Results**
 
