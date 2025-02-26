@@ -37,6 +37,10 @@ Road accidents caused by **poor visibility, unexpected obstacles, and deteriorat
   - **Ultrasonic sensor detects potholes** → Alerts driver if depth is significant  
   - **LiDAR (optional)** for more accurate object detection.
 
+**Videos output link**
+
+https://drive.google.com/drive/folders/1S1JBAdjyYV650NgbE4GMEKWBHpaqtt_u
+
 
 **Output / Expected Results**
 
